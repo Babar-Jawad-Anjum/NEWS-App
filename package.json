@@ -1,5 +1,6 @@
 {
   "name": "newsapp-classbasecomponent",
+  "homepage": "https://news-app-umber.vercel.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
